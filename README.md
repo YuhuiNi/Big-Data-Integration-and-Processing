@@ -16,7 +16,11 @@ Skills we will gain:
 
 This repository covers the following things:
 
-1.Lecture notes
+#### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slices)
 
-2.Assignments
+#### 2.[quiz and answers]()
+
+#### 3.Code Assignments
+
+
 
