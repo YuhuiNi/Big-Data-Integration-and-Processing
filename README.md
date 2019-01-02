@@ -10,6 +10,7 @@ Through this course, we are able to:
 * Execute simple big data integration and processing on Hadoop and Spark platforms
 
 Skills we will gain:
+
 * Mongodb
 * Splunk
 * Apache Spark
@@ -18,7 +19,7 @@ This repository covers the following things:
 
 #### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slices)
 
-#### 2.[quiz and answers]()
+#### 2.[Quiz and answers]()
 
 #### 3.Code Assignments
 
