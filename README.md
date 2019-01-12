@@ -19,9 +19,14 @@ This repository covers the following things:
 
 #### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slices)
 
-#### 2.[Quiz and answers]()
+#### 2.Code Assignments
+* [Analzying Tweets with Spark](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/SoccerTweetAnalysis.ipynb)   
+- [Exploring SparkSQL and Spark Dataframes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-sparksql.ipynb)  
+- [Spark & Hadoop Wordcount (Pyspark)](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-wc.ipynb)
+- [Spark MLlib example using Kmeans Clustering and RandomRDDs](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-kmeans.ipynb)  
+- [Analzying Sensor Data with Spark Streaming](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-streaming.ipynb)
+- [Querying and Exporting from MongoDB](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/Querying-and-Exporting-from-MongoDB.md)  
 
-#### 3.Code Assignments
 
 
 
