@@ -17,7 +17,7 @@ Skills we will gain:
 
 This repository covers the following things:
 
-#### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slices)
+#### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slides)
 
 #### 2.Code Assignments
 - [Analzying Tweets with Spark](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/SoccerTweetAnalysis.ipynb)   
