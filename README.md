@@ -20,7 +20,7 @@ This repository covers the following things:
 #### 1.[Lecture notes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/tree/master/slices)
 
 #### 2.Code Assignments
-* [Analzying Tweets with Spark](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/SoccerTweetAnalysis.ipynb)   
+- [Analzying Tweets with Spark](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/SoccerTweetAnalysis.ipynb)   
 - [Exploring SparkSQL and Spark Dataframes](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-sparksql.ipynb)  
 - [Spark & Hadoop Wordcount (Pyspark)](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-wc.ipynb)
 - [Spark MLlib example using Kmeans Clustering and RandomRDDs](https://github.com/YuhuiNi/Big-Data-Integration-and-Processing/blob/master/code%20assignment/spark-example-kmeans.ipynb)  
